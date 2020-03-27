@@ -8,4 +8,5 @@ Execute the 'linuxcomm.py' python file
 
 Screenshots - 
 
-
+<img src="screenshots/ss1.PNG" width=400px height =200px>  <img src="screenshots/ss2.PNG" width=400px  height=200px>
+<img src="screenshots/ss3.PNG" width=400px height =200px>   <img src="screenshots/ss4.PNG" width=400px  height=200px>
