@@ -4,7 +4,7 @@ A GUI for running the basic linux commands withoutt having to write it on the co
 WORKS ONLY ON LINUX
 
 How to Execute -
-Execute the 'linuxcomm.py' in terminal or in any IDE
+Execute the 'linuxcomm.py' python file
 
 Screenshots - 
 
